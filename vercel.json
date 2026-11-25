@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/demo1/:path*",
-      "destination": "https://khan-jee-dulha-house-website-build.vercel.app/"
+      "destination": "https://khan-jee-dulha-house-website-build.vercel.app/:path*"
     }
   ]
 }
