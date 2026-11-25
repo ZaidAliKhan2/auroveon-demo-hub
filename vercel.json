@@ -1,5 +1,10 @@
 {
+  "trailingSlash": false,
   "rewrites": [
+    {
+      "source": "/dulhajee-demo",
+      "destination": "https://khan-jee-dulha-house-website-build.vercel.app/"
+    },
     {
       "source": "/dulhajee-demo/:path*",
       "destination": "https://khan-jee-dulha-house-website-build.vercel.app/:path*"
