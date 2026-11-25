@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/demo1/:path*",
+      "destination": "https://clothing-demo.vercel.app/:path*"
+    }
+  ]
+}
