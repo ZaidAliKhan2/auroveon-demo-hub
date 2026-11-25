@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/demo1/:path*",
+      "source": "/dulhajee-demo/:path*",
       "destination": "https://khan-jee-dulha-house-website-build.vercel.app/:path*"
     }
   ]
