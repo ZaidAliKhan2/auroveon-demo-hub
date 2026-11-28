@@ -10,12 +10,12 @@
       "destination": "https://khan-jee-dulha-house-website-build.vercel.app/dulhajee-demo/:path*"
     },
     {
-      "source":"/lotz-gents-wear-demo",
-      "destination":"https://lotz-gents-wear-demo.vercel.app/lotz-gents-wear-demo"
+      "source": "/lotz-gents-wear-demo",
+      "destination": "https://lotz-gents-wear-demo.vercel.app/lotz-gents-wear-demo"
     },
     {
-      "source":"/lotz-gents-wear-demo/:path*",
-      "destination":"https://lotz-gents-wear-demo.vercel.app/lotz-gents-wear-demo/:path*"
-    },
+      "source": "/lotz-gents-wear-demo/:path*",
+      "destination": "https://lotz-gents-wear-demo.vercel.app/lotz-gents-wear-demo/:path*"
+    }
   ]
 }
